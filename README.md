@@ -1,6 +1,6 @@
-# Portfolio Website
+# R Data Analysis Portfolio & Showcase
 
-This project is a personal portfolio website designed to showcase completed projects, provide information about the portfolio owner, and allow for image uploads and PDF downloads.
+You will find R code files for Rmarkdown and Data Sources. 
 
 ## Project Structure
 
